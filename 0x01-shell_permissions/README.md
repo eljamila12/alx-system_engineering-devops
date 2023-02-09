@@ -1,0 +1,1 @@
+My readme  of permissions
