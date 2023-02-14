@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PAIH:/action
+PATH=$PATH:/action
